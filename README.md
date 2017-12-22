@@ -1,9 +1,7 @@
 # FRONT TEMPLATE
 フロント開発をする際に必用な物をまとめたテンプレートです。
-このリポジトリをforkしてそのまま開発を進めることが出来ます。
 
-# URL
-https://github.com/yoshiakinakanishi/front-template
+このリポジトリをforkしてそのまま開発を進めることが出来ます。
 
 **[yarn](https://yarnpkg.com/ja/)を使うこと前提でpackage.jsonを記述しています。**
 
